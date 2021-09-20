@@ -5,7 +5,7 @@
 * I find artificial intelligence is interesting becuase computers being able to think is cool
 * I think robots also very interesting because it make life easier for people
 
-###Technical Background
+### Technical Background
 <p> I have expeirence with java, c, and pyhton. I also have worked a lot in the terminial. I have been programming for at least 3 years.
 </p>
 
